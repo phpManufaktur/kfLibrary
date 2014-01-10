@@ -1,6 +1,6 @@
 {
   "name":"Library",
-  "guid":"71CAAFD8-7A1F-4B17-BF63-0BE498E9A00E",
+  "guid":"0875FBF9-D2B7-4361-B913-83A763C1748C",
   "category":"extension",
   "group":"phpManufaktur",
   "vendor":{
@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.10",
-    "date":"2014-01-09",
+    "number":"0.11",
+    "date":"2014-01-10",
     "status":"release"
   },
   "description": {
@@ -47,6 +47,10 @@
             }
         }
     }
+  },
+  "setup": {
+      "install":"\/admin\/library\/setup",
+      "update":"\/admin\/library\/update"
   },
   "license": {
     "name":"MIT License",
