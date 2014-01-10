@@ -1,0 +1,64 @@
+{
+  "name":"Library",
+  "guid":"71CAAFD8-7A1F-4B17-BF63-0BE498E9A00E",
+  "category":"extension",
+  "group":"phpManufaktur",
+  "vendor":{
+      "name":"phpManufaktur",
+      "url":"https:\/\/phpmanufaktur.de",
+      "mail":"team@phpmanufaktur.de",
+      "address":{
+          "street":"Stockholmer Straße 31",
+          "zip":"13359",
+          "city":"Berlin",
+          "country":"Germany"
+      },
+      "phone":"+49 30 68813647"
+  },
+  "type":"library",
+  "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
+  "namespace":"phpManufaktur\\library",
+  "release":{
+    "number":"0.10",
+    "date":"2014-01-09",
+    "status":"release"
+  },
+  "description": {
+    "en":{
+      "title":"Library for the kitFramework",
+      "short":"Different libraries for the usage with the kitFramework",
+      "long":"Libraries for the usage with the kitFramework like Bootstrap 2 & 3, Font Awesome 3 & 4, different jQuery versions and jQuery extensions and also PHP Extensions.",
+      "url":"https:\/\/kit2.phpmanufaktur.de"
+    },
+    "de":{
+      "title":"Library for the kitFramework",
+      "short":"Verschiedene Bibliotheken für die Nutzung im kitFramework",
+      "long":"Bibliotheken für die Nutzung mit dem kitFramework, wie Bootstrap 2 & 3, Font Awesome 3 & 4, verschiedene jQuery Versionen sowie jQuery Erweiterungen und PHP Erweiterungen."
+    }
+  },
+  "require":{
+    "framework":{
+      "release":"0.27"
+    },
+    "extension":{
+        "phpManufaktur":{
+            "Basic":{
+                "release":"0.69"
+            }
+        }
+    }
+  },
+  "license": {
+    "name":"MIT License",
+    "url":"https:\/\/github.com\/phpManufaktur\/kfLibrary\/raw\/master\/LICENSE.md"
+  },
+  "download": {
+    "availability":"public",
+    "agreement":"free",
+    "github":{
+      "organization":"phpManufaktur",
+      "repository":"kfLibrary"
+    },
+    "url":"https:\/\/github.com\/phpManufaktur\/kfLibrary"
+  }
+}
