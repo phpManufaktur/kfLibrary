@@ -26,8 +26,6 @@ class Update
     {
         $this->app = $app;
 
-        $Setup = new Setup();
-        $Setup->createSymlinks($app);
 
         return $app['translator']->trans('Successfull configured the kitFramework Library.');
     }
