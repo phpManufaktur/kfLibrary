@@ -10,7 +10,7 @@
  */
 
 $library_namespaces = array(
-    'dflydev' => $baseDir . '/extension/phpmanufaktur/phpManufaktur/Library/Extension/dflydev/markdown/latest',
+    'dflydev' => $baseDir . '/extension/phpmanufaktur/phpManufaktur/Library/Extension/dflydev/markdown/1.0.3',
     'Nicl' => $baseDir . '/extension/phpmanufaktur/phpManufaktur/Library/Extension/nicl/',
-    'Carbon' => $baseDir . '/extension/phpmanufaktur/phpManufaktur/Library/Extension/carbon/latest/src',
+    'Carbon' => $baseDir . '/extension/phpmanufaktur/phpManufaktur/Library/Extension/carbon/1.8.0/src',
 );
