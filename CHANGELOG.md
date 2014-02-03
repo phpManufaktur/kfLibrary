@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.15** - 2014-02-03
+
+* added Bootstrap 3.1.0 to the Library
+
 **0.14** - 2014-01-29
 
 * switch back to usage of exact version to load libraries instead of using 'latest' - causes to many problems
