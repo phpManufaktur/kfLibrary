@@ -23,6 +23,113 @@
     "date":"2014-02-03",
     "status":"release"
   },
+  "library":{
+    "extension":{
+      "carbon":{
+        "name":"Carbon",
+        "usage":"Date and Time API",
+        "url":"https:\/\/github.com\/briannesbitt\/Carbon",
+        "releases":[
+          "1.4.0",
+          "1.8.0"
+        ]
+      },
+      "dflydev-markdown":{
+          "name":"dflydev-markdown",
+          "usage":"MarkDown Parser API",
+          "url":"https:\/\/github.com\/dflydev\/dflydev-markdown",
+          "releases":[
+              "1.0.2",
+              "1.0.3"
+          ]
+      },
+      "htmlpurifier":{
+          "name":"HTMLPurifier",
+          "usage":"Standards-compliant HTML filter library",
+          "url":"http:\/\/htmlpurifier.org\/",
+          "releases":[
+              "4.6.0"
+          ]
+      }
+    },
+    "library":{
+          "bootstrap":{
+              "name":"Bootstrap",
+              "usage":"Front-end framework",
+              "url":"http:\/\/getbootstrap.com\/",
+              "releases":[
+                  "2.3.2",
+                  "3.0.3",
+                  "3.1.0"
+              ]
+          },
+          "font-awesome":{
+              "name":"Font Awesome",
+              "usage":"Iconic font for Bootstrap",
+              "url":"http:\/\/fontawesome.io\/",
+              "releases":[
+                  "3.2.1",
+                  "4.0.3"
+              ]
+          },
+          "jquery":{
+              "name":"jQuery",
+              "usage":"Library",
+              "library":{
+                  "jquery":{
+                      "name":"jQuery",
+                      "usage":"JavaScript library",
+                      "url":"http:\/\/jquery.com\/",
+                      "releases":[
+                          "1.10.2",
+                          "2.0.3"
+                      ]
+                  },
+                  "lightbox":{
+                      "name":"LightBox 2",
+                      "usage":"Image overlay",
+                      "url":"http:\/\/lokeshdhakar.com\/projects\/lightbox2\/",
+                      "releases":[
+                          "2.6.0"
+                      ]
+                  },
+                  "migrate":{
+                      "name":"Migrate",
+                      "usage":"Migrate older jQuery code to 1.9+",
+                      "url":"https:\/\/github.com\/jquery\/jquery-migrate\/",
+                      "releases":[
+                          "1.2.1"
+                      ]
+                  },
+                  "tagedit":{
+                      "name":"TagEdit",
+                      "usage":"Edit and change tags from database",
+                      "url":"https:\/\/github.com/webworka\/Tagedit",
+                      "releases":[
+                          "1.5.1"
+                      ]
+                  },
+                  "timepicker":{
+                      "name":"TimePicker",
+                      "usage":"Add a timepicker to the jQuery UI datepicker",
+                      "url":"https:\/\/github.com\/trentrichardson\/jQuery-Timepicker-Addon",
+                      "releases":[
+                          "1.4.3"
+                      ]
+                  },
+                  "ui":{
+                      "name":"jQuery UI",
+                      "usage":"Standard jQuery User Interface",
+                      "url":"https:\/\/github.com\/jquery\/jquery-ui",
+                      "releases":[
+                          "1.10.3",
+                          "1.10.4"
+                      ]
+                  }
+              }
+          }
+      }
+  },
   "description": {
     "en":{
       "title":"Library for the kitFramework",

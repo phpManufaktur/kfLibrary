@@ -13,3 +13,10 @@ $app->get('/admin/library/setup',
     'phpManufaktur\Library\Setup\Setup::ControllerSetup');
 $app->get('/admin/library/update',
     'phpManufaktur\Library\Setup\Update::ControllerUpdate');
+
+$app->post('/command/libraryinfo',
+    'phpManufaktur\Library\Control\Command\LibraryInfo::ControllerLibraryFrame')
+    ->setOption('info', MANUFAKTUR_PATH.'/Library/command.libraryinfo.json');
+
+$app->get('/library/info',
+    'phpManufaktur\Library\Control\Command\LibraryInfo::ControllerLibraryInfo');
