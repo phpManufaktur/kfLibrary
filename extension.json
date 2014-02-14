@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.16",
-    "date":"2014-02-09",
+    "number":"0.17",
+    "date":"2014-02-14",
     "status":"release"
   },
   "library":{
@@ -82,6 +82,7 @@
                       "url":"http:\/\/jquery.com\/",
                       "releases":[
                           "1.10.2",
+                          "1.11.0",
                           "2.0.3"
                       ]
                   },
@@ -150,7 +151,7 @@
     "extension":{
         "phpManufaktur":{
             "Basic":{
-                "release":"0.69"
+                "release":"0.81"
             }
         }
     }

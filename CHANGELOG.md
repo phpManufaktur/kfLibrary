@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.17** - 2014-02-14
+
+* added jQuery 1.11.0
+
 **0.16** - 2014-02-09
 
 * added kitCommand `~~ LibraryView ~~` to view a list of the available PHP extensions and frontend libraries
