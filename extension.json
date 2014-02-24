@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.17",
-    "date":"2014-02-14",
+    "number":"0.18",
+    "date":"2014-02-24",
     "status":"release"
   },
   "library":{
@@ -126,6 +126,14 @@
                           "1.10.3",
                           "1.10.4"
                       ]
+                  },
+                  "zeroclipboad":{
+                      "name":"ZeroClipboard",
+                      "usage":"Copy text to the clipboard",
+                      "url":"https:\/\/github.com\/zeroclipboard\/zeroclipboard",
+                      "releases":[
+                          "1.3.2"
+                      ]
                   }
               }
           }
@@ -151,7 +159,7 @@
     "extension":{
         "phpManufaktur":{
             "Basic":{
-                "release":"0.81"
+                "release":"0.83"
             }
         }
     }

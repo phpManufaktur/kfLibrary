@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.18** - 2014-02-24
+
+* added jQuery ZeroClipboard 1.3.2
+
 **0.17** - 2014-02-14
 
 * added jQuery 1.11.0
