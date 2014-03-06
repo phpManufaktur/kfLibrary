@@ -141,22 +141,24 @@ class bsNavbarLinks {
   protected function buildNavbar($menu, $level, $visibility, &$navbar = '')
   {
     $page_ids = $this->getPageIDsForLevel($menu, $level, $visibility);
-    foreach ($page_ids as $page_id) {
-      if ($this->PageHasChild($page_id)) {
-        if ($level == self::$start_level) {
-          $navbar .= '<li class="menu-item dropdown">';
-          $navbar .= sprintf('<a href="%s" class="dropdown-toggle" data-toggle="dropdown">%s <b class="caret"></b></a>', $this->getURLbyPageID($page_id), $this->getMenuTitle($page_id));
-        } else {
-          $navbar .= '<li class="menu-item dropdown dropdown-submenu">';
-          $navbar .= sprintf('<a href="%s" class="dropdown-toggle" data-toggle="dropdown">%s</a>', $this->getURLbyPageID($page_id), $this->getMenuTitle($page_id));
+    if (is_array($page_ids)) {
+        foreach ($page_ids as $page_id) {
+          if ($this->PageHasChild($page_id)) {
+            if ($level == self::$start_level) {
+              $navbar .= '<li class="menu-item dropdown">';
+              $navbar .= sprintf('<a href="%s" class="dropdown-toggle" data-toggle="dropdown">%s <b class="caret"></b></a>', $this->getURLbyPageID($page_id), $this->getMenuTitle($page_id));
+            } else {
+              $navbar .= '<li class="menu-item dropdown dropdown-submenu">';
+              $navbar .= sprintf('<a href="%s" class="dropdown-toggle" data-toggle="dropdown">%s</a>', $this->getURLbyPageID($page_id), $this->getMenuTitle($page_id));
+            }
+            $navbar .= '<ul class="dropdown-menu">';
+            $this->buildNavbar($menu, $level + 1, $visibility, $navbar);
+            $navbar .= '</ul></li>';
+          } else {
+            $navbar .= sprintf('<li class="%s"><a href="%s" title="%s">%s</a></li>', ($page_id == PAGE_ID) ? 'menu-item active' : 'menu-item', $this->getURLbyPageID($page_id), $this->getPageTitle($page_id), $this->getMenuTitle($page_id)
+            );
+          }
         }
-        $navbar .= '<ul class="dropdown-menu">';
-        $this->buildNavbar($menu, $level + 1, $visibility, $navbar);
-        $navbar .= '</ul></li>';
-      } else {
-        $navbar .= sprintf('<li class="%s"><a href="%s" title="%s">%s</a></li>', ($page_id == PAGE_ID) ? 'menu-item active' : 'menu-item', $this->getURLbyPageID($page_id), $this->getPageTitle($page_id), $this->getMenuTitle($page_id)
-        );
-      }
     }
   }
 
