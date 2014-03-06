@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.19** - 2014-03-06
+
+* Introduce CMS Template helper: Bootstrap 3 Navbar Links as replacement for `show_menu2()`
+
 **0.18** - 2014-02-24
 
 * added jQuery ZeroClipboard 1.3.2

@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.18",
-    "date":"2014-02-24",
+    "number":"0.19",
+    "date":"2014-03-06",
     "status":"release"
   },
   "library":{
@@ -51,6 +51,18 @@
               "4.6.0"
           ]
       }
+    },
+    "helper":{
+        "bootstrap":{
+            "navbarlinks":{
+                "name":"NavbarLinks",
+                "usage":"show_menu2() replacement for Bootstrap Navbars",
+                "url":"https:\/\/kit2.phpmanufaktur.de",
+                "releases":[
+                    "1.0.0"
+                ]
+            }
+        }
     },
     "library":{
           "bootstrap":{
