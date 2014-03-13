@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.20** - 2014-03-13
+
+* improved CMS Template helper for Bootstrap 3 Navbar Links
+
 **0.19** - 2014-03-06
 
 * Introduce CMS Template helper: Bootstrap 3 Navbar Links as replacement for `show_menu2()`
