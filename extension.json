@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.20",
-    "date":"2014-03-13",
+    "number":"0.21",
+    "date":"2014-03-28",
     "status":"release"
   },
   "library":{
@@ -148,6 +148,14 @@
                       ]
                   }
               }
+          },
+          "jsoneditor":{
+              "name":"JSON Editor",
+              "usage":"Editor for JSON files",
+              "url":"https:\/\/github.com\/josdejong\/jsoneditor",
+              "releases":[
+                  "2.3.6"
+              ]
           }
       }
   },
@@ -171,7 +179,7 @@
     "extension":{
         "phpManufaktur":{
             "Basic":{
-                "release":"0.83"
+                "release":"0.87"
             }
         }
     }
