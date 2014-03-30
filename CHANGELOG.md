@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.22** - 2014-03-30
+
+* updated jQuery Timepicker to 1.4.4
+
 **0.21** - 2014-03-28
 
 * added JSON Editor 2.3.6
