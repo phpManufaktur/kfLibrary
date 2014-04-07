@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.22",
-    "date":"2014-03-30",
+    "number":"0.23",
+    "date":"2014-04-07",
     "status":"release"
   },
   "library":{
@@ -36,7 +36,7 @@
       },
       "dflydev-markdown":{
           "name":"dflydev-markdown",
-          "usage":"MarkDown Parser API",
+          "usage":"MarkDown Parser API - DEPRECATED, use php-markdown instead!",
           "url":"https:\/\/github.com\/dflydev\/dflydev-markdown",
           "releases":[
               "1.0.2",
@@ -50,6 +50,14 @@
           "releases":[
               "4.6.0"
           ]
+      },
+      "php-markdown":{
+          "name":"php-markdown",
+          "usage":"MarkDown Parser",
+          "url":"https:\/\/github.com\/michelf\/php-markdown",
+          "releases":[
+              "1.4.0"
+          ]
       }
     },
     "helper":{
@@ -57,9 +65,10 @@
             "navbarlinks":{
                 "name":"NavbarLinks",
                 "usage":"show_menu2() replacement for Bootstrap Navbars",
-                "url":"https:\/\/kit2.phpmanufaktur.de",
+                "url":"https:\/\/github.com\/phpManufaktur\/NavbarLinks",
                 "releases":[
-                    "1.0.0"
+                    "1.0.0",
+                    "1.0.2"
                 ]
             }
         }
