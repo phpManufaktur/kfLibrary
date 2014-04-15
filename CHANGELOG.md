@@ -6,6 +6,20 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.24** - 2014-04-15
+
+* fixed autoloading for 'Michelf'
+
+**0.23** - 2014-04-07
+
+* added Bootstrap 3.1.1
+* changed including of jQuery *.map files
+* added jQuery 2.1.0
+* added Lightbox 2.7.1
+* updated ZeroClipboard to 1.3.5
+* added autoloading for 'Michelf'
+* added NavbarLinks 1.0.2
+
 **0.22** - 2014-03-30
 
 * updated jQuery Timepicker to 1.4.4
