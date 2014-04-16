@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.25** - 2014-04-16
+
+* introduce `/latest` for all Library extensions
+
 **0.24** - 2014-04-15
 
 * fixed autoloading for 'Michelf'
