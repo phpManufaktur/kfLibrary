@@ -6,6 +6,11 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.26** - 2014-04-30
+
+* added RRSSB (Social Sharing Buttons) 1.6.0
+* added `normalize.css` 3.0.1
+
 **0.25** - 2014-04-16
 
 * introduce `/latest` for all Library extensions

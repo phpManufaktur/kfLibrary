@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.25",
-    "date":"2014-04-16",
+    "number":"0.26",
+    "date":"2014-04-30",
     "status":"release"
   },
   "library":{
