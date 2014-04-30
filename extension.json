@@ -170,6 +170,22 @@
               "releases":[
                   "2.3.6"
               ]
+          },
+          "normalize":{
+              "name":"normalize.css",
+              "usage":"Normalize CSS for Browsers",
+              "url":"https:\/\/github.com\/necolas\/normalize.css",
+              "releases":[
+                  "3.0.1"
+              ]
+          },
+          "rrssb":{
+              "name":"Ridiculously Responsive Social Sharing Buttons",
+              "usage":"Ridiculously Responsive Social Sharing Buttons",
+              "url":"https:\/\/github.com\/kni-labs\/rrssb",
+              "releases":[
+                  "1.6.0"
+              ]
           }
       }
   },
