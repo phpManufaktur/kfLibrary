@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.27** - 2014-05-03
+
+* added `browser.php` (Browser Detection) 1.9.0
+
 **0.26** - 2014-04-30
 
 * added RRSSB (Social Sharing Buttons) 1.6.0
