@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.28** - 2014-06-01
+
+* added Font-Awesome 4.1.0
+
 **0.27** - 2014-05-03
 
 * added `browser.php` (Browser Detection) 1.9.0
