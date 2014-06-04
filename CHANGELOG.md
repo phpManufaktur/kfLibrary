@@ -6,6 +6,11 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.30** - 2014-06-04
+
+* minify the Library, remove not needed files and `/latest` directory
+* create the `/latest` directories with Setup or Update
+
 **0.29** - 2014-06-04
 
 * added TableSorter 2.17.1
