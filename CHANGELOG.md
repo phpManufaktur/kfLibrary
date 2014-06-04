@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.29** - 2014-06-04
+
+* added TableSorter 2.17.1
+
 **0.28** - 2014-06-01
 
 * added Font-Awesome 4.1.0
