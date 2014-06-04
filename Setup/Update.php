@@ -26,6 +26,8 @@ class Update
     {
         $this->app = $app;
 
+        $Setup = new Setup();
+        $Setup->CreateLatestDirectory($app);
 
         return $app['translator']->trans('Successfull configured the kitFramework Library.');
     }
