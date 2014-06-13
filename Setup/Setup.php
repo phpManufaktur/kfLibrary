@@ -54,7 +54,7 @@ class Setup
     {
         $this->app = $app;
 
-        $this->CreateLatestDirectory();
+        $this->CreateLatestDirectory($app);
 
         return $app['translator']->trans('Successfull configured the kitFramework Library.');
     }
