@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.31** - 2014-06-13
+
+* bugfix: missing initialization at setup routine ... 8-(
+
 **0.30** - 2014-06-04
 
 * minify the Library, remove not needed files and `/latest` directory
