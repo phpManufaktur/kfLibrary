@@ -66,6 +66,14 @@
           "releases":[
               "1.4.0"
           ]
+      },
+      "phpexcel":{
+          "name":"PHPExcel",
+          "usage":"PHPExcel - OpenXML - Read, Write and Create spreadsheet documents in PHP",
+          "url":"https://github.com/PHPOffice/PHPExcel",
+          "releases":[
+              "1.8.0"
+          ]
       }
     },
     "helper":{
