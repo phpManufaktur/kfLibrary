@@ -6,6 +6,15 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.33** - 2014-07-17
+
+* updated Bootstrap to 3.2.0
+* removed Bootstrap 3.0.3 & 3.1.0
+* updated jQuery to 2.1.1
+* introduce FlexSlider 2.2.2
+* updated Tablesorter to 2.17.4
+* updated Timepicker to 1.4.5
+
 **0.32** - 2014-06-30
 
 * Introduce PHPExcel 1.8.0
