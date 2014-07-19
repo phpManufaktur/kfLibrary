@@ -127,12 +127,21 @@
                       ],
                       "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/jquery"
                   },
+                  "easing":{
+                      "name":"jQuery Easing",
+                      "usage":"Easing effects",
+                      "url":"http:\/\/gsgd.co.uk\/sandbox\/jquery\/easing\/",
+                      "releases":[
+                          "1.3.0"
+                      ],
+                      "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/easing"
+                  },
                   "flexslider":{
                     "name":"FlexSlider",
                     "usage":"Image slider and gallery",
                     "url":"https:\/\/github.com\/woothemes\/FlexSlider",
                     "releases":[
-                        "2.2.2"
+                        "2.2.1"
                     ],
                     "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/flexslider"
                   },
@@ -154,6 +163,15 @@
                           "1.2.1"
                       ],
                       "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/migrate"
+                  },
+                  "mousewheel":{
+                      "name":"MouseWheel",
+                      "usage":"jQuery Mouse Wheel Plugin",
+                      "url":"https:\/\/github.com\/brandonaaron\/jquery-mousewheel",
+                      "releases":[
+                          "3.1.12"
+                      ],
+                      "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/mousewheel"
                   },
                   "tablesorter":{
                       "name":"TableSorter",
