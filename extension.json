@@ -230,7 +230,7 @@
               "usage":"Editor for JSON files",
               "url":"https:\/\/github.com\/josdejong\/jsoneditor",
               "releases":[
-                  "2.3.6"
+                  "3.0.0"
               ],
               "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jsoneditor"
           },
