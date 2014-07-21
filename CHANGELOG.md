@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.34** - 2014-07-21
+
+* replaced JsonEditor 2.3.6 with release 3.0.0
+
 **0.33** - 2014-07-17
 
 * updated Bootstrap to 3.2.0
