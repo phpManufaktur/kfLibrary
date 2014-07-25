@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.35** - 2014-07-25
+
+* introduce jQuery awesomeCloud release 0.2.0
+
 **0.34** - 2014-07-21
 
 * replaced JsonEditor 2.3.6 with release 3.0.0
