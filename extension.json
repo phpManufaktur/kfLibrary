@@ -127,6 +127,15 @@
                       ],
                       "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/jquery"
                   },
+                  "awesomecloud":{
+                    "name":"awesomeCloud",
+                    "usage":"Create a word or tag cloud using the HTML5 canvas element",
+                    "url":"https:\/\/github.com\/indyarmy\/jQuery.awesomeCloud.plugin",
+                    "releases":[
+                      "0.2.0"
+                    ],
+                    "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/awesomecloud"
+                  },
                   "easing":{
                       "name":"jQuery Easing",
                       "usage":"Easing effects",
