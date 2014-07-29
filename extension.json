@@ -173,6 +173,15 @@
                       ],
                       "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/migrate"
                   },
+                  "mmenu":{
+                    "name":"mmenu",
+                    "usage":"jQuery app-look-alike sliding menu",
+                    "url":"https:\/\/github.com\/BeSite\/jQuery.mmenu",
+                    "releases":[
+                      "4.3.6"
+                    ],
+                    "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/jquery\/mmenu"
+                  },
                   "mousewheel":{
                       "name":"MouseWheel",
                       "usage":"jQuery Mouse Wheel Plugin",
