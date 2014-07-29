@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.36** - 2014-07-29
+
+* introduce jQuery mmenu release 4.3.6
+
 **0.35** - 2014-07-25
 
 * introduce jQuery awesomeCloud release 0.2.0
