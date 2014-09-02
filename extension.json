@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.36",
-    "date":"2014-07-29",
+    "number":"0.37",
+    "date":"2014-09-02",
     "status":"release"
   },
   "library":{
@@ -106,9 +106,8 @@
               "usage":"Iconic font for Bootstrap",
               "url":"http:\/\/fontawesome.io\/",
               "releases":[
-                  "3.2.1",
-                  "4.0.3",
-                  "4.1.0"
+                  "4.1.0",
+                  "4.2.0"
               ],
               "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library\/Library\/font-awesome"
           },
@@ -292,7 +291,7 @@
     "extension":{
         "phpManufaktur":{
             "Basic":{
-                "release":"0.99"
+                "release":"1.0.9"
             }
         }
     }

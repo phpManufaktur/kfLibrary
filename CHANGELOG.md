@@ -6,6 +6,11 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.37** - 2014-09-02
+
+* updated FontAwesome to 4.2.0
+* removed FontAwesome 3.2.1 & 4.0.3
+
 **0.36** - 2014-07-29
 
 * introduce jQuery mmenu release 4.3.6
