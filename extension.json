@@ -276,12 +276,13 @@
       "title":"Library for the kitFramework",
       "short":"Different libraries for the usage with the kitFramework",
       "long":"Libraries for the usage with the kitFramework like Bootstrap 2 & 3, Font Awesome 3 & 4, different jQuery versions and jQuery extensions and also PHP Extensions.",
-      "url":"https:\/\/kit2.phpmanufaktur.de"
+      "url":"https:\/\/kit2.phpmanufaktur.de\/Library"
     },
     "de":{
       "title":"Library for the kitFramework",
       "short":"Verschiedene Bibliotheken für die Nutzung im kitFramework",
-      "long":"Bibliotheken für die Nutzung mit dem kitFramework, wie Bootstrap 2 & 3, Font Awesome 3 & 4, verschiedene jQuery Versionen sowie jQuery Erweiterungen und PHP Erweiterungen."
+      "long":"Bibliotheken für die Nutzung mit dem kitFramework, wie Bootstrap 2 & 3, Font Awesome 3 & 4, verschiedene jQuery Versionen sowie jQuery Erweiterungen und PHP Erweiterungen.",
+      "url":"https:\/\/kit2.phpmanufaktur.de\/Library"
     }
   },
   "require":{
