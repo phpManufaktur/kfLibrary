@@ -21,7 +21,8 @@
   "release":{
     "number":"0.37",
     "date":"2014-09-02",
-    "status":"release"
+    "status":"release",
+    "changelog":"https:\/\/github.com\/phpManufaktur\/kfLibrary\/blob\/master\/CHANGELOG.md"
   },
   "library":{
     "extension":{
