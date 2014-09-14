@@ -19,8 +19,8 @@
   "path":"\/extension\/phpmanufaktur\/phpManufaktur\/Library",
   "namespace":"phpManufaktur\\library",
   "release":{
-    "number":"0.37",
-    "date":"2014-09-02",
+    "number":"0.38",
+    "date":"2014-09-14",
     "status":"release",
     "changelog":"https:\/\/github.com\/phpManufaktur\/kfLibrary\/blob\/master\/CHANGELOG.md"
   },
@@ -293,7 +293,7 @@
     "extension":{
         "phpManufaktur":{
             "Basic":{
-                "release":"1.0.9"
+                "release":"1.0.12"
             }
         }
     }
