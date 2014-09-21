@@ -6,6 +6,10 @@ MIT License (MIT) - <http://www.opensource.org/licenses/MIT>
 
 kitFramework - <https://kit2.phpmanufaktur.de>
 
+**0.39** - 2014-09-20
+
+* introduce [Jasny Bootstrap](http://jasny.github.io/bootstrap/)
+
 **0.38** - 2014-09-14
 
 * updated `@link` references
